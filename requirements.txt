@@ -1,2 +1,7 @@
 customtkinter
 Pillow
+qrcode
+reportlab
+opencv-python
+pyzbar
+matplotlib
